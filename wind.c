@@ -1,9 +1,4 @@
-/*
- * wind.c
- *
- *  Created on: Apr 10, 2014
- *      Author: kamath
- */
+// Computer Graphics
 #include<stdlib.h>
 #include<stdio.h>
 #include<math.h>
